@@ -1,0 +1,10 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+    font-weight: 400;
+}
+
+.display-6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
